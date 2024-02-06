@@ -11,8 +11,6 @@ import numpy as np
 # In[29]:
 
 
-import io
-get_ipython().run_line_magic('cd', '"C:\\Users\\saisowmya\\Desktop\\auto MPG app"')
 
 
 # In[30]:
